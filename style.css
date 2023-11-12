@@ -1,0 +1,153 @@
+*{
+    padding: 0%;
+    margin: 0px;
+}
+
+body{
+    font-family: 'Young Serif', serif;
+}
+
+.container{
+    padding: 50px;
+}
+
+.sec-one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.sec-one__contact{
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding-top:px5 ;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+    margin-top:10px ;
+}
+
+.sec-one__name{
+    font-size: 60px;
+}
+
+.sec-one__role{
+    font-size: 30px;
+}
+
+.sec-one,.sec-two,.sec-three,.sec-four,.sec-five{
+    margin-top:20px ;
+}
+
+.sec-one__desc,.sec-two__desc,.sec-three__desc,.sec-four__desc,.sec-five{
+    margin-top:10px ;
+}
+
+.sec-five{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.sec-five__title a{
+ color: skyblue;   
+}
+
+.sec-three li,.sec-four li{
+    list-style: none;
+}
+
+.sec-three{
+    background-color: #6462fd;
+    color: black;
+    display: inline-block;
+    height: 200px;
+    padding: 20px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+
+.sec-four{
+    background-color: #fe7517;
+    color: black;
+    display: inline-block;
+    height: 200px;
+    padding: 20px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+
+.contact-form{
+    margin-top: 20px;
+}
+
+.contact-form__input,.contact-form__textarea,.contact-form__submit{
+    margin-top: 10px;
+}
+
+.contact-form__input{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+
+.contact-form__textarea{
+    padding: 10px;
+    border: solid black 1px;
+    
+}
+
+
+.contact-form__submit{
+    padding-top: 10px;
+    padding-bottom:10px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    background-color: orangered;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
