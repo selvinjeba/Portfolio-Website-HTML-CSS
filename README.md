@@ -13,7 +13,7 @@ HTML
 CSS
 
 How to Use:
-Clone the repository: git clone https://github.com/your-username/portfolio.git
+Clone the repository: git clone https://github.com/Selvinjeba
 Open the index.html file in your web browser to view the portfolio.
 
 Feedback and Contributions:
